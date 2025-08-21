@@ -2,5 +2,5 @@ hola#include <stdio.h>
 
 void main ()
 {
-  printf("Hola Munndo)
+  printf("Hola Mundo")
 }
